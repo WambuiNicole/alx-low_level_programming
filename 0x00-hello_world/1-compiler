@@ -1,2 +1,2 @@
 #!/bin/bash
-cat main.o
+gcc -c -save-temps $CFILE
