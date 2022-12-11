@@ -8,7 +8,6 @@ int main(void)
 {
 	int intType;
 	float floatType;
-	double doubleType;
 	char charType;
 
 	printf("Size of int: %zu byte\(s\)\n", sizeof(intType));
