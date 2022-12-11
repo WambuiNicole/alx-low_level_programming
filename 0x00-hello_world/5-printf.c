@@ -2,7 +2,8 @@
 
 /**
  * main- prints to screen using printf
- * returns: zero
+ *	*
+ *	  * return: zero
  */
 int main(void)
 {
