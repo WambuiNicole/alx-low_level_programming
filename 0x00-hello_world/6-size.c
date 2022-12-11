@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * main - determines sizes of data types
+ ** main - determines sizes of data types
  *   *
  *   	*Return: zero
  */
-int main(){
+int main(void)
+{
 	int intType;
 	float floatType;
 	double doubleType;
@@ -16,4 +17,4 @@ int main(){
 	printf("Size of char: %zu bytes\n", sizeof(charType);
 
 	return (0);
-	}
+}
