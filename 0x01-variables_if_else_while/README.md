@@ -1,1 +1,1 @@
-7)prints alphabet in reverse
+8)Lists hexadecimal numbers
