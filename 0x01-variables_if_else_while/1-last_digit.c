@@ -10,13 +10,14 @@
  */
 int main(void)
 {
-	int n;
+	int n, lastDigit;
 	char Ldf[] = "Last digit of ";
-	int lastDigit = n % 10;
 
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
+
+	lastDigit = n % 10;
 	
 	if ((n % 10) > 5)
 	
