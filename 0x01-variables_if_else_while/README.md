@@ -1,1 +1,1 @@
-6)lists numberz
+7)prints alphabet in reverse
