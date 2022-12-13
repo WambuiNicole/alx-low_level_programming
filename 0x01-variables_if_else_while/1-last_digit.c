@@ -5,7 +5,7 @@
 /**
  * *main - prints the last digit of the variable n
  *     *
- *          *Returns 0;
+ *          *Returns (0);
  *
  */
 int main(void)
