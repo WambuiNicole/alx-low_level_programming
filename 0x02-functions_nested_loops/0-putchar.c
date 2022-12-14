@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
  /**
   * *Main - prints _putchar onto screen;
   * 	*Returns 0;
